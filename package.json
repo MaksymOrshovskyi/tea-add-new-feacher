@@ -1,0 +1,23 @@
+{
+  "name": "tea-add-new-feacher",
+  "version": "1.0.0",
+  "description": "Functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaksymOrshovskyi/tea-add-new-feacher.git"
+  },
+  "dependencies": {
+    "tea-b4b-testnet": "1.0.1",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymOrshovskyi/tea-add-new-feacher/issues"
+  },
+  "homepage": "https://github.com/MaksymOrshovskyi/tea-add-new-feacher#readme"
+}
